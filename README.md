@@ -1,5 +1,7 @@
 # Sztuczna-inteligencja-i-systemy-ekspertowe
 
+http://algorytmy.ency.pl/tutorial/problem_komiwojazera_algorytm_genetyczny
+
 1. algorytm genetyczny
 2. problem 
 - biblioteka
