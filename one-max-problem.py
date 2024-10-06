@@ -35,6 +35,7 @@ toolbox = base.Toolbox()
 #                      probability)
 toolbox.register("attr_bool", random.randint, 0, 1)
 
+# --------------------------------------------------
 # Structure initializers
 #                         define 'individual' to be an individual
 #                         consisting of 100 'attr_bool' elements ('genes')
